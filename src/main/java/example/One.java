@@ -7,5 +7,5 @@ public class One {
     public String foo() {
         return message;
     }
-  //kk
+  //kk2
 }
