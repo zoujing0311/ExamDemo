@@ -6,7 +6,7 @@ public class One {
 
     public String foo() {
 	    System.out.println("test");
-        System.out.println("test3");
+        System.out.println("test4");
         return message;
     }
 
