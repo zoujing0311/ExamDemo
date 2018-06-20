@@ -5,10 +5,6 @@ public class One {
 
 
     public String foo() {
-        System.out.println("test5");
-        System.out.println("test6");
         return message;
     }
-
-
 }
