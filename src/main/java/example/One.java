@@ -5,8 +5,9 @@ public class One {
 
 
     public String foo() {
-	System.out.println("test");
+	    System.out.println("test");
+        System.out.println("test2");
         return message;
     }
-  //kk2
+
 }
