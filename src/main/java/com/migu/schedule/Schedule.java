@@ -49,6 +49,7 @@ public class Schedule {
 
     public int queryTaskStatus(List<TaskInfo> tasks) {
         // TODO 方法未实现
+        System.out.println("test");
         return ReturnCodeKeys.E000;
     }
 
