@@ -5,6 +5,7 @@ public class One {
 
 
     public String foo() {
+	System.out.println("test");
         return message;
     }
   //kk2
